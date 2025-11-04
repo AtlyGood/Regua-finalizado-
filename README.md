@@ -1,17 +1,17 @@
-# 🚀 Histórico de Versões
+#  Histórico de Versões
 
 ---
 
-## 📋 **V2.0.0 - Atualização de Validação**
-**📅 Lançamento:** `Versão Atual`  
-**🟢 Status:** **Produção**
+##  **V2.0.0 - Atualização de Validação**
+** Lançamento:** `Versão Atual`  
+** Status:** **Produção**
 
-### 🎯 **Objetivo da Versão**
+###  **Objetivo da Versão**
 Garantir a integridade dos dados e melhorar a experiência do usuário através de validações mais robustas.
 
-### ✨ **Novidades Implementadas**
+###  **Novidades Implementadas**
 
-| 🔧 **Funcionalidade** | 📝 **Descrição** | 🎨 **Impacto** |
+|  **Funcionalidade** |  **Descrição** |  **Impacto** |
 |----------------------|------------------|----------------|
 | **Validação de Imagem** | Sistema verifica obrigatoriedade do upload de logo |  Melhoria na qualidade dos dados |
 | **Feedback Visual** | Mensagens de erro indicando falta de dados |  Melhor experiência do usuário |
@@ -28,8 +28,8 @@ Garantir a integridade dos dados e melhorar a experiência do usuário através 
 - ~~Experiência confusa durante o preenchimento~~
 
 ---
-## 📋 **V1.9.0 - Site funcional**
-### 🎯 **Características Principais**
+##  **V1.9.0 - Site funcional**
+###  **Características Principais**
 
 | **Módulo** |  **Funcionalidades** |  **Status** |
 |---------------|----------------------|---------------|
