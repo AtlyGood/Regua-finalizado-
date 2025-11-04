@@ -2,7 +2,7 @@
 
 ---
 
-##  **V2.0.0 - Atualização de Validação**
+##  **V2.0.0 **- Atualização de Validação**
 ** Lançamento:** `Versão Atual`  
 ** Status:** **Produção**
 
