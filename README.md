@@ -1,67 +1,65 @@
 # Histórico de Versões
 
 ---
-V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
-Lançamento: Versão Atual
-Status: Produção
+# V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
 
-Objetivo da Versão
+**Lançamento:** Versão Atual  
+**Status:** Produção
+
+## Objetivo da Versão
 Transferir a responsabilidade de estimativa de horário para o barbeiro, garantindo previsões mais realistas e adequadas à capacidade operacional da barbearia.
 
-Novidades Implementadas
-Funcionalidade	Descrição	Impacto
-Horário Estimado pelo Barbeiro	Barbeiro define o horário estimado para cada cliente	Previsões mais precisas e realistas
-Comunicação em Tempo Real	Cliente recebe atualização automática do horário	Melhor experiência de espera
-Persistência de Dados	Horário salvo no banco de dados	Histórico e consistência das informações
-Interface de Gestão	Painel intuitivo para barbeiros definir horários	Facilidade de operação
-Melhorias Técnicas
-Campo de Horário Estimado: Novo campo horario_estimado no modelo Agendamento
+## Novidades Implementadas
 
-API RESTful: Endpoints para salvar e buscar horários estimados
+| Funcionalidade | Descrição | Impacto |
+|---------------|-----------|---------|
+| Horário Estimado pelo Barbeiro | Barbeiro define o horário estimado para cada cliente | Previsões mais precisas e realistas |
+| Comunicação em Tempo Real | Cliente recebe atualização automática do horário | Melhor experiência de espera |
+| Persistência de Dados | Horário salvo no banco de dados | Histórico e consistência das informações |
+| Interface de Gestão | Painel intuitivo para barbeiros definir horários | Facilidade de operação |
 
-Sistema de Polling: Verificação automática a cada 5 segundos
+## Melhorias Técnicas
+- **Campo de Horário Estimado:** Novo campo `horario_estimado` no modelo Agendamento
+- **API RESTful:** Endpoints para salvar e buscar horários estimados
+- **Sistema de Polling:** Verificação automática a cada 5 segundos
+- **Validação de Dados:** Garantia de integridade referencial
 
-Validação de Dados: Garantia de integridade referencial
+## Problemas Resolvidos
+- ~~Estimativas de tempo imprecisas pelo sistema~~
+- ~~Falta de flexibilidade para o barbeiro gerenciar sua agenda~~
+- ~~Comunicação inadequada sobre horários reais de atendimento~~
+- ~~Experiência frustrante de espera sem informações claras~~
 
-Problemas Resolvidos
-~~Estimativas de tempo imprecisas pelo sistema~~
+---
 
-~~Falta de flexibilidade para o barbeiro gerenciar sua agenda~~
+# V2.2.0 - Organização para Melhor Desenvolvimento
 
-~~Comunicação inadequada sobre horários reais de atendimento~~
+**Lançamento:** Versão Anterior  
+**Status:** Estável
 
-~~Experiência frustrante de espera sem informações claras~~
-
-V2.2.0 - Organização para Melhor Desenvolvimento
-Lançamento: Versão Anterior
-Status: Estável
-
-Objetivo da Versão
+## Objetivo da Versão
 Estruturar a documentação e organização do projeto para facilitar o desenvolvimento contínuo e manutenção do código.
 
-Novidades Implementadas
-Funcionalidade	Descrição	Impacto
-Documentação de Briefing	Definição clara de objetivos e escopo	Alinhamento da equipe
-Casos de Uso Detalhados	Especificação completa de funcionalidades	Desenvolvimento mais preciso
-Escopo Bem Definido	Limites e responsabilidades do projeto	Controle de escopo eficiente
-Estrutura de Arquivos	Organização lógica dos componentes	Manutenibilidade do código
-Melhorias Técnicas
-Documentação Técnica: Especificações detalhadas de cada módulo
+## Novidades Implementadas
 
-Arquitetura de Software: Estrutura clara de pastas e componentes
+| Funcionalidade | Descrição | Impacto |
+|---------------|-----------|---------|
+| Documentação de Briefing | Definição clara de objetivos e escopo | Alinhamento da equipe |
+| Casos de Uso Detalhados | Especificação completa de funcionalidades | Desenvolvimento mais preciso |
+| Escopo Bem Definido | Limites e responsabilidades do projeto | Controle de escopo eficiente |
+| Estrutura de Arquivos | Organização lógica dos componentes | Manutenibilidade do código |
 
-Fluxos de Trabalho: Processos bem definidos para desenvolvimento
+## Melhorias Técnicas
+- **Documentação Técnica:** Especificações detalhadas de cada módulo
+- **Arquitetura de Software:** Estrutura clara de pastas e componentes
+- **Fluxos de Trabalho:** Processos bem definidos para desenvolvimento
+- **Padrões de Código:** Convenções estabelecidas para consistência
 
-Padrões de Código: Convenções estabelecidas para consistência
-
-Problemas Resolvidos
-~~Falta de documentação clara do projeto~~
-
-~~Dificuldade em entender o escopo completo~~
-
-~~Comunicação inadequada entre desenvolvedores~~
-
-~~Manutenção complexa do código existente~~
+## Problemas Resolvidos
+- ~~Falta de documentação clara do projeto~~
+- ~~Dificuldade em entender o escopo completo~~
+- ~~Comunicação inadequada entre desenvolvedores~~
+- ~~Manutenção complexa do código existente~~
 
 
 ## **V2.1.0 - Melhoria na Visualização de Barbearias**
