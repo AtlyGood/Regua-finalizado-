@@ -19,7 +19,7 @@ Transferir a responsabilidade de estimativa de horário para o barbeiro, garanti
 | Interface de Gestão | Painel intuitivo para barbeiros definir horários | Facilidade de operação |
 
 ## Melhorias Técnicas
-- **Campo de Horário Estimado:** Novo campo `horario_estimado` no modelo Agendamento
+- **Campo de Horário Estimado:** Novo campo `horario_estimado` no Banco de dados
 - **API RESTful:** Endpoints para salvar e buscar horários estimados
 - **Sistema de Polling:** Verificação automática a cada 5 segundos
 - **Validação de Dados:** Garantia de integridade referencial
@@ -34,7 +34,7 @@ Transferir a responsabilidade de estimativa de horário para o barbeiro, garanti
 
 # V2.2.0 - Organização para Melhor Desenvolvimento
 
-**Lançamento:** `Versão Anterior` 
+**Lançamento:** `Versão anterior`   
 **Status:** **Estável**
 
 ## Objetivo da Versão
