@@ -3,7 +3,7 @@
 ---
 # V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
 
-**Lançamento:** `Versão Atual` 
+**Lançamento:** `Versão Atual`   
 **Status:** **Estável**
 
 ## Objetivo da Versão
