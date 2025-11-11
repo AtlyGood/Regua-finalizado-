@@ -3,8 +3,8 @@
 ---
 # V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
 
-**Lançamento:** Versão Atual  
-**Status:** Produção
+**Lançamento:** `Versão Atual` 
+**Status:** **Estável**
 
 ## Objetivo da Versão
 Transferir a responsabilidade de estimativa de horário para o barbeiro, garantindo previsões mais realistas e adequadas à capacidade operacional da barbearia.
@@ -34,8 +34,8 @@ Transferir a responsabilidade de estimativa de horário para o barbeiro, garanti
 
 # V2.2.0 - Organização para Melhor Desenvolvimento
 
-**Lançamento:** Versão Anterior  
-**Status:** Estável
+**Lançamento:** `Versão Anterior` 
+**Status:** **Estável**
 
 ## Objetivo da Versão
 Estruturar a documentação e organização do projeto para facilitar o desenvolvimento contínuo e manutenção do código.
@@ -63,8 +63,8 @@ Estruturar a documentação e organização do projeto para facilitar o desenvol
 
 
 ## **V2.1.0 - Melhoria na Visualização de Barbearias**
-**Lançamento:** `Versão Atual`  
-**Status:** **Produção**
+**Lançamento:** `Versão antiga`   
+**Status:** **Estável**
 
 ### **Objetivo da Versão**
 Melhorar a usabilidade e experiência do usuário através da exibição clara das informações de localização das barbearias.
@@ -90,7 +90,7 @@ Melhorar a usabilidade e experiência do usuário através da exibição clara d
 ---
 
 ## **V2.0.0 - Atualização de Validação**
-**Lançamento:** `Versão Anterior`  
+**Lançamento:** `Versão antiga`  
 **Status:** **Estável**
 
 ### **Objetivo da Versão**
