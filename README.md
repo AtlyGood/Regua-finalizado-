@@ -26,7 +26,6 @@ Implementar configurações de acessibilidade para garantir inclusão digital e 
 - ~~Falta de opções de acessibilidade para usuários com necessidades especiais~~
 - ~~Experiência inconsistente em dispositivos móveis de tela pequena~~
 - ~~Dificuldade de leitura para usuários com baixa visão~~
-- ~~Barreiras de acesso para usuários daltônicos~~
 - ~~Navegação complexa em interfaces mobile~~
 ---
 # V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
