@@ -1,5 +1,5 @@
 # Histórico de Versões
-
+V2.4.0 - configyuraçoes de acessibilidade adicionadas e melhoria na responsividade para mobile
 ---
 # V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
 
