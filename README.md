@@ -1,9 +1,37 @@
 # Histórico de Versões
-V2.4.0 - configyuraçoes de acessibilidade adicionadas e melhoria na responsividade para mobile
+# V2.4.0 - Configurações de Acessibilidade e Melhoria na Responsividade para Mobile
+
+**Lançamento:** `Versão Atual`  
+**Status:** **Estável**
+
+## Objetivo da Versão
+Implementar configurações de acessibilidade para garantir inclusão digital e melhorar a experiência em dispositivos móveis através de refinamentos na responsividade.
+
+## Novidades Implementadas
+
+| Funcionalidade | Descrição | Impacto |
+|---------------|-----------|---------|
+| Painel de Acessibilidade | Menu com opções de alto contraste, aumento de fonte | Maior inclusão para usuários com necessidades especiais |
+| Modo Alto Contraste | Alternância entre temas de alto e baixo contraste | Melhor legibilidade para usuários com baixa visão |
+| Redimensionamento de Fonte | Opções para aumentar e diminuir tamanho da fonte | Acessibilidade para usuários com dificuldade visual |
+| Responsividade Otimizada | Ajustes finos para telas menores que 6 polegadas | Experiência mobile mais consistente |
+
+## Melhorias Técnicas
+- **CSS Custom Properties:** Variáveis CSS para gerenciamento centralizado de estilos
+- **Media Queries Avançadas:** Breakpoints específicos para dispositivos móveis modernos
+- **Armazenamento Local:** Persistência das preferências de acessibilidade no navegador
+- **JavaScript Modular:** Componentes reutilizáveis para funcionalidades de acessibilidade
+
+## Problemas Resolvidos
+- ~~Falta de opções de acessibilidade para usuários com necessidades especiais~~
+- ~~Experiência inconsistente em dispositivos móveis de tela pequena~~
+- ~~Dificuldade de leitura para usuários com baixa visão~~
+- ~~Barreiras de acesso para usuários daltônicos~~
+- ~~Navegação complexa em interfaces mobile~~
 ---
 # V2.3.0 - Sistema de Horário Estimado pelo Barbeiro
 
-**Lançamento:** `Versão Atual`   
+**Lançamento:** `Versão anterior`   
 **Status:** **Estável**
 
 ## Objetivo da Versão
@@ -34,7 +62,7 @@ Transferir a responsabilidade de estimativa de horário para o barbeiro, garanti
 
 # V2.2.0 - Organização para Melhor Desenvolvimento
 
-**Lançamento:** `Versão anterior`   
+**Lançamento:** `Versão antiga`   
 **Status:** **Estável**
 
 ## Objetivo da Versão
